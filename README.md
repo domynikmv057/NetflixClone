@@ -1,6 +1,12 @@
+<h1> Clone Netflix Angular</h1>
+<h4>DESAFIO FINAL DO MÓDULO DE ANGULAR</h4>
+<p> Desafio final do módulo de Angular da Let's Code, fomos desafiados a fazer um clone completo da Netflix, fomos divididos em squads, e trabalhamos através do GitHub.<p/>
+<hr>
+<p> Foi realmente incrível trabalhar com meu squad  <a href="https://github.com/FelipeRodriguesGare"> FelipeRodriguesGare </a>, <a href="https://github.com/VitorZillig"> VitorZillig </a>,  <a href="https://github.com/AntonioMRH">AntonioMRH</a>, <a href="https://github.com/ffsilva27"> ffsilva27 </a> foi uma equipe sensacional conseguimos entregar o projeto no prazo e comprido todas a funcionalidade, foi uma baita experiencia trabalhar em grupo dessa forma sem contar o desafio que foi incrível</p>
+<hr>
 # Netflix
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli), version 13.0.0.
 
 ## Development server
 
