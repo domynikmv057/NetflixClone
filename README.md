@@ -4,6 +4,31 @@
 <hr>
 <p> Foi realmente incrível trabalhar com meu squad  <a href="https://github.com/FelipeRodriguesGare"> FelipeRodriguesGare </a>, <a href="https://github.com/VitorZillig"> VitorZillig </a>,  <a href="https://github.com/AntonioMRH">AntonioMRH</a>, <a href="https://github.com/ffsilva27"> ffsilva27 </a> foi uma equipe sensacional conseguimos entregar o projeto no prazo e comprido todas a funcionalidade, foi uma baita experiencia trabalhar em grupo dessa forma sem contar o desafio que foi incrível</p>
 <hr>
+
+<div align="center">
+    <h1> Imagens do projeto </h1><br/><br/><br/>
+    <h3>* Pagina Inicial.</h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/entrar.png" width="100%" ><br/><br/><br/>
+    <h3>* Pagina de login</h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/login1.png" width="100%" ><br/><br/><br/><br/>
+    <h3>* Validadores de login</h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/login2.png" width="100%" ><br/><br/><br/><br/>
+    <h3>* Seleção de perfil </h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/perfil1.png" width="100%" ><br/><br/><br/><br/>
+    <h3>* Edição de perfil</h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/perfil1.png" width="100%" ><br/><br/><br/><br/>
+    <h3>* Catalogo de filmes, filme em destaque</h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/home1.png" width="100%" ><br/><br/><br/><br/>
+    <h3>* Catalogo de filmes, carrossel</h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/home2.png" width="100%" ><br/><br/><br/><br/>
+    <h3>* Modal de filmes</h3>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/modal1.png" width="100%" ><br/><br/><br/><br/>
+    <img src="https://github.com/domynikmv057/NetflixClone/blob/main/repository_Readme/modal2.png" width="100%" ><br/><br/><br/><br/>
+
+</div>
+
+
+<hr/>
 # Netflix
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli), version 13.0.0.
